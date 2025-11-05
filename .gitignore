@@ -1,6 +1,6 @@
 # Dependências
 node_modules/
-package-lock.json
+# package-lock.json - Mantido no repositório para builds reproduzíveis
 yarn.lock
 
 # Build
